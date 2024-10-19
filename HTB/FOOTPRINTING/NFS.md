@@ -29,6 +29,6 @@ Most used tool for footprinting
 *sudo umount \<nfs-dir\>*
 
 
-
+ertyertyerty
 
 IMPORTANT NOTE: We can also use NFS for further escalation. For example, if we have access to the system via SSH and want to read files from another folder that a specific user can read, we would need to upload a shell to the NFS share that has the `SUID` of that user and then run the shell via the SSH user.
