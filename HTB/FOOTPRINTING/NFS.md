@@ -8,7 +8,7 @@ Configuration file at */etc/exports*
 Common Ports: 111, 2049
 ### ENUMERATION
 **NMAP**
-Most used tool for footpTrinting
+Most used tool for footprinting
 - [NSE(Nmap Scripting Engine)](https://nmap.org/book/nse.html) - A set of different scripts written for specific services
 
 **NMAP COMMAND FLAGS**
