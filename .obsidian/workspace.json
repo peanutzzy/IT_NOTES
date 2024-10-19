@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "HTB/FOOTPRINTING/IPMI.md",
+                "file": "HTB/FOOTPRINTING/ORACLE TNS.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "IPMI"
+              "title": "ORACLE TNS"
             }
           }
         ]
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "HTB/FOOTPRINTING/IPMI.md",
+                "file": "HTB/FOOTPRINTING/ORACLE TNS.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for IPMI"
+              "title": "Backlinks for ORACLE TNS"
             }
           },
           {
@@ -112,12 +112,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "HTB/FOOTPRINTING/IPMI.md",
+                "file": "HTB/FOOTPRINTING/ORACLE TNS.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from IPMI"
+              "title": "Outgoing links from ORACLE TNS"
             }
           },
           {
@@ -139,10 +139,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "HTB/FOOTPRINTING/IPMI.md"
+                "file": "HTB/FOOTPRINTING/ORACLE TNS.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of IPMI"
+              "title": "Outline of ORACLE TNS"
             }
           },
           {
@@ -175,27 +175,27 @@
   },
   "active": "1e4307436a7a37a7",
   "lastOpenFiles": [
+    "HTB/FOOTPRINTING/MYSQL.md",
     "HTB/FOOTPRINTING/MSSQL.md",
     "HTB/FOOTPRINTING/IPMI.md",
-    "HTB/FOOTPRINTING/ORACLE TNS.md",
     "HTB/FOOTPRINTING/FORMAT.md",
+    "IMAGES/Pasted image 20241019180030.png",
+    "HTB/FOOTPRINTING/ORACLE TNS.md",
     "HTB/FOOTPRINTING/SMTP.md",
     "HTB/FOOTPRINTING/SNMP.md",
-    "HTB/FOOTPRINTING/MYSQL.md",
     "HTB/FOOTPRINTING/IMAP-POP3.md",
-    "Pasted image 20241019182646.png",
-    "Pasted image 20241019182546.png",
-    "Pasted image 20241019182534.png",
+    "IMAGES/Pasted image 20241019182646.png",
+    "IMAGES/Pasted image 20241019182546.png",
+    "IMAGES/Pasted image 20241019182534.png",
     "HTB/FOOTPRINTING/DNS.md",
     "HTB/FOOTPRINTING/FTP.md",
     "HTB/FOOTPRINTING/NFS.md",
-    "Pasted image 20241019181746.png",
-    "Pasted image 20241019181717.png",
-    "Pasted image 20241019181652.png",
-    "Pasted image 20241019181452.png",
-    "Pasted image 20241019180955.png",
-    "Pasted image 20241019180924.png",
-    "Pasted image 20241019180050.png",
+    "IMAGES/Pasted image 20241019181746.png",
+    "IMAGES/Pasted image 20241019181717.png",
+    "IMAGES/Pasted image 20241019181652.png",
+    "IMAGES/Pasted image 20241019181452.png",
+    "IMAGES/Pasted image 20241019180955.png",
+    "IMAGES/Pasted image 20241019180924.png",
     "HTB/HTB END GOAL.md",
     "IMAGES",
     "HTB/FOOTPRINTING/SMB.md",
