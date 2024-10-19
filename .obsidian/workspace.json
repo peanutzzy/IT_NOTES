@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "HTB/HTB END GOAL.md",
+                "file": "HTB/PENTESTING PROCESS.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "HTB END GOAL"
+              "title": "PENTESTING PROCESS"
             }
           }
         ]
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "HTB/FOOTPRINTING/ORACLE TNS.md",
+                "file": "HTB/PENTESTING PROCESS.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for ORACLE TNS"
+              "title": "Backlinks for PENTESTING PROCESS"
             }
           },
           {
@@ -112,12 +112,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "HTB/FOOTPRINTING/ORACLE TNS.md",
+                "file": "HTB/PENTESTING PROCESS.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from ORACLE TNS"
+              "title": "Outgoing links from PENTESTING PROCESS"
             }
           },
           {
@@ -139,10 +139,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "HTB/FOOTPRINTING/ORACLE TNS.md"
+                "file": "HTB/PENTESTING PROCESS.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of ORACLE TNS"
+              "title": "Outline of PENTESTING PROCESS"
             }
           },
           {
@@ -175,20 +175,7 @@
   },
   "active": "1e4307436a7a37a7",
   "lastOpenFiles": [
-    "HTB/FOOTPRINTING/DNS.md",
-    "HTB/FOOTPRINTING/FORMAT.md",
-    "HTB/FOOTPRINTING/FTP.md",
-    "HTB/FOOTPRINTING/IMAP-POP3.md",
-    "HTB/FOOTPRINTING/IPMI.md",
-    "HTB/FOOTPRINTING/MSSQL.md",
-    "HTB/FOOTPRINTING/MYSQL.md",
-    "HTB/FOOTPRINTING/NFS.md",
-    "HTB/FOOTPRINTING/SNMP.md",
-    "HTB/FOOTPRINTING/SMTP.md",
-    "HTB/FOOTPRINTING/SMB.md",
     "HTB/FOOTPRINTING/ORACLE TNS.md",
-    "HTB/PENTESTING PROCESS.md",
-    "HTB/HTB END GOAL.md",
     "IT_NOTES/IMAGES/Pasted image 20241019182646.png",
     "IT_NOTES/IMAGES/Pasted image 20241019182546.png",
     "IT_NOTES/IMAGES/Pasted image 20241019181746.png",
@@ -212,10 +199,22 @@
     "IT_NOTES/HTB/FOOTPRINTING/MSSQL.md",
     "IT_NOTES/HTB/FOOTPRINTING/IPMI.md",
     "IT_NOTES/HTB/FOOTPRINTING/IMAP-POP3.md",
+    "IT_NOTES/HTB/FOOTPRINTING/FTP.md",
+    "IT_NOTES/HTB/FOOTPRINTING/FORMAT.md",
+    "IT_NOTES/HTB/FOOTPRINTING/DNS.md",
     "IT_NOTES/HTB/RESOURCES",
+    "IT_NOTES/HTB/PENTESTING PROCESS.md",
+    "IT_NOTES/HTB/HTB END GOAL.md",
     "IT_NOTES/HTB/FOOTPRINTING",
     "IT_NOTES/HTB",
     "IT_NOTES",
+    "HTB/FOOTPRINTING/MYSQL.md",
+    "HTB/FOOTPRINTING/MSSQL.md",
+    "HTB/FOOTPRINTING/IPMI.md",
+    "HTB/FOOTPRINTING/FORMAT.md",
+    "HTB/FOOTPRINTING/SMTP.md",
+    "HTB/FOOTPRINTING/SNMP.md",
+    "HTB/FOOTPRINTING/IMAP-POP3.md",
     "IMAGES",
     "HTB/RESOURCES",
     "HTB/FOOTPRINTING",
