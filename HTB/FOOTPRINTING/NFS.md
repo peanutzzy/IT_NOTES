@@ -5,7 +5,7 @@ Configuration file at */etc/exports*
 ## DANGEROUS CONFIGURATION OF NFS
 ![[Pasted image 20241017185344.png]]
 ## FOOTPRINTNG
-Common Ports: 111, 2049
+Common ports: 111, 2049
 ### ENUMERATION
 **NMAP**
 Most used tool for footprinting
