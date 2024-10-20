@@ -11,14 +11,12 @@
             "id": "1e4307436a7a37a7",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "HTB/PENTESTING PROCESS.md",
-                "mode": "source",
-                "source": false
+                "file": "HTB/RESOURCES/Footprinting_Module_Cheat_Sheet.pdf"
               },
-              "icon": "lucide-file",
-              "title": "PENTESTING PROCESS"
+              "icon": "lucide-file-text",
+              "title": "Footprinting_Module_Cheat_Sheet"
             }
           }
         ]
@@ -93,7 +91,11 @@
             "state": {
               "type": "backlink",
               "state": {
+<<<<<<< HEAD
                 "file": "HTB/FOOTPRINTING/ORACLE TNS.md",
+=======
+                "file": "HTB/FOOTPRINTING/FOOTPRINTING LAB MEDIUM.md",
+>>>>>>> origin/master
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +105,11 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
+<<<<<<< HEAD
               "title": "Backlinks for ORACLE TNS"
+=======
+              "title": "Backlinks for FOOTPRINTING LAB MEDIUM"
+>>>>>>> origin/master
             }
           },
           {
@@ -112,12 +118,20 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+<<<<<<< HEAD
                 "file": "HTB/FOOTPRINTING/ORACLE TNS.md",
+=======
+                "file": "HTB/FOOTPRINTING/FOOTPRINTING LAB MEDIUM.md",
+>>>>>>> origin/master
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
+<<<<<<< HEAD
               "title": "Outgoing links from ORACLE TNS"
+=======
+              "title": "Outgoing links from FOOTPRINTING LAB MEDIUM"
+>>>>>>> origin/master
             }
           },
           {
@@ -139,10 +153,17 @@
             "state": {
               "type": "outline",
               "state": {
+<<<<<<< HEAD
                 "file": "HTB/FOOTPRINTING/ORACLE TNS.md"
               },
               "icon": "lucide-list",
               "title": "Outline of ORACLE TNS"
+=======
+                "file": "HTB/FOOTPRINTING/FOOTPRINTING LAB MEDIUM.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of FOOTPRINTING LAB MEDIUM"
+>>>>>>> origin/master
             }
           },
           {
@@ -173,8 +194,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "1e4307436a7a37a7",
+  "active": "505d2360039975af",
   "lastOpenFiles": [
+<<<<<<< HEAD
     "HTB/HTB END GOAL.md",
     "HTB/FOOTPRINTING/DNS.md",
     "HTB/FOOTPRINTING/FORMAT.md",
@@ -199,12 +221,47 @@
     "IT_NOTES/IMAGES/Pasted image 20241019180955.png",
     "IT_NOTES/IMAGES/Pasted image 20241019180924.png",
     "IT_NOTES/IMAGES/Pasted image 20241019180050.png",
+=======
+    "IMAGES/Pasted image 20241019235059.png",
+    "HTB/FOOTPRINTING/FOOTPRINTING LAB MEDIUM.md",
+    "IMAGES/Pasted image 20241019235044.png",
+    "HTB/FOOTPRINTING/WMI.md",
+    "HTB/FOOTPRINTING/RDP.md",
+    "HTB/FOOTPRINTING/WINRM.md",
+    "HTB/FOOTPRINTING/SMTP.md",
+    "HTB/FOOTPRINTING/NFS.md",
+    "HTB/FOOTPRINTING/ORACLE TNS.md",
+    "HTB/FOOTPRINTING/MYSQL.md",
+    "HTB/FOOTPRINTING/MSSQL.md",
+    "IMAGES/Pasted image 20241019232007.png",
+    "HTB/RESOURCES/Footprinting_Module_Cheat_Sheet.pdf",
+    "HTB/FOOTPRINTING/SMB.md",
+    "HTB/FOOTPRINTING/DNS.md",
+    "HTB/FOOTPRINTING/FTP.md",
+    "HTB/FOOTPRINTING/FORMAT.md",
+    "HTB/FOOTPRINTING/SSH.md",
+    "HTB/FOOTPRINTING/SNMP.md",
+    "HTB/FOOTPRINTING/RSYNC.md",
+    "HTB/FOOTPRINTING/R-SERVICES.md",
+    "IMAGES/Pasted image 20241019224938.png",
+    "HTB/FOOTPRINTING/IMAP-POP3.md",
+    "HTB/FOOTPRINTING/IPMI.md",
+    "TmpFC6.tmp",
+    "IMAGES/Pasted image 20241019201248.png",
+    "IMAGES/Pasted image 20241019201213.png",
+    "IMAGES/Pasted image 20241019200840.png",
+    "IMAGES/Pasted image 20241019200729.png",
+    "IMAGES/Pasted image 20241019200620.png",
+    "IMAGES/Pasted image 20241019195507.png",
+    "HTB/PENTESTING PROCESS.md",
+>>>>>>> origin/master
     "IT_NOTES/IMAGES",
     "IT_NOTES/HTB/RESOURCES/YT CHANNELS.md",
     "IT_NOTES/HTB/RESOURCES/SITES.md",
     "IT_NOTES/HTB/RESOURCES/COMMANDS.md",
     "IT_NOTES/HTB/FOOTPRINTING/SNMP.md",
     "IT_NOTES/HTB/FOOTPRINTING/SMTP.md",
+<<<<<<< HEAD
     "IT_NOTES/HTB/FOOTPRINTING/SMB.md",
     "IT_NOTES/HTB/FOOTPRINTING/ORACLE TNS.md",
     "IT_NOTES/HTB/FOOTPRINTING/NFS.md",
@@ -212,13 +269,14 @@
     "IT_NOTES/HTB/FOOTPRINTING/MSSQL.md",
     "IT_NOTES/HTB/FOOTPRINTING/IPMI.md",
     "IT_NOTES/HTB/FOOTPRINTING/IMAP-POP3.md",
+=======
+>>>>>>> origin/master
     "IT_NOTES/HTB/RESOURCES",
     "IT_NOTES/HTB/FOOTPRINTING",
     "IT_NOTES/HTB",
     "IT_NOTES",
     "IMAGES",
     "HTB/RESOURCES",
-    "HTB/FOOTPRINTING",
-    "HTB"
+    "HTB/FOOTPRINTING"
   ]
 }
